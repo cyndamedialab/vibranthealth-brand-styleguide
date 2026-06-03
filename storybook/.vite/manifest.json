@@ -4,8 +4,8 @@
     "name": "attribute-card.stories",
     "isDynamicEntry": true
   },
-  "_blocks-B4DhRhx6.js": {
-    "file": "_astro/blocks-B4DhRhx6.js",
+  "_blocks-BSqmMR9E.js": {
+    "file": "_astro/blocks-BSqmMR9E.js",
     "name": "blocks",
     "imports": [
       "_preload-helper-C91jIAhM.js"
@@ -54,8 +54,8 @@
     "name": "hero.stories",
     "isDynamicEntry": true
   },
-  "_iframe-n7yy7L48.js": {
-    "file": "_astro/iframe-n7yy7L48.js",
+  "_iframe-B_0Fk7zf.js": {
+    "file": "_astro/iframe-B_0Fk7zf.js",
     "name": "iframe",
     "imports": [
       "_preload-helper-C91jIAhM.js"
@@ -234,53 +234,53 @@
     "isDynamicEntry": true
   },
   "node_modules/@storybook/addon-docs/dist/_browser-chunks/Color-23OOGO2C.js": {
-    "file": "_astro/Color-23OOGO2C-BJ5JGgF6.js",
+    "file": "_astro/Color-23OOGO2C-DgJQgHPl.js",
     "name": "Color-23OOGO2C",
     "src": "node_modules/@storybook/addon-docs/dist/_browser-chunks/Color-23OOGO2C.js",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
-      "_iframe-n7yy7L48.js",
+      "_blocks-BSqmMR9E.js",
+      "_iframe-B_0Fk7zf.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "node_modules/@storybook/addon-docs/dist/_browser-chunks/DocsRenderer-LL677BLK.js": {
-    "file": "_astro/DocsRenderer-LL677BLK-DdiNZ50K.js",
+    "file": "_astro/DocsRenderer-LL677BLK-qQDf1XYM.js",
     "name": "DocsRenderer-LL677BLK",
     "src": "node_modules/@storybook/addon-docs/dist/_browser-chunks/DocsRenderer-LL677BLK.js",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "node_modules/storybook/dist/_browser-chunks/WithTooltip-65CFNBJE.js": {
-    "file": "_astro/WithTooltip-65CFNBJE-DawotZlb.js",
+    "file": "_astro/WithTooltip-65CFNBJE-DF7BTvrE.js",
     "name": "WithTooltip-65CFNBJE",
     "src": "node_modules/storybook/dist/_browser-chunks/WithTooltip-65CFNBJE.js",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "node_modules/storybook/dist/_browser-chunks/formatter-EIJCOSYU.js": {
-    "file": "_astro/formatter-EIJCOSYU-CzBwil0P.js",
+    "file": "_astro/formatter-EIJCOSYU-CqcHNQKm.js",
     "name": "formatter-EIJCOSYU",
     "src": "node_modules/storybook/dist/_browser-chunks/formatter-EIJCOSYU.js",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "node_modules/storybook/dist/_browser-chunks/syntaxhighlighter-W7WJGI2T.js": {
-    "file": "_astro/syntaxhighlighter-W7WJGI2T-NVKUAFyL.js",
+    "file": "_astro/syntaxhighlighter-W7WJGI2T-Tbg6iLwc.js",
     "name": "syntaxhighlighter-W7WJGI2T",
     "src": "node_modules/storybook/dist/_browser-chunks/syntaxhighlighter-W7WJGI2T.js",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
@@ -294,320 +294,320 @@
     ]
   },
   "src/components/attribute-card/attribute-card.mdx": {
-    "file": "_astro/attribute-card-B0a6R80p.js",
+    "file": "_astro/attribute-card-CfvUxL1F.js",
     "name": "attribute-card",
     "src": "src/components/attribute-card/attribute-card.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_attribute-card.stories-B7IYy6ga.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/color-palette-details/color-palette-details.mdx": {
-    "file": "_astro/color-palette-details-CkoJMW8K.js",
+    "file": "_astro/color-palette-details-BpjUGHpZ.js",
     "name": "color-palette-details",
     "src": "src/components/color-palette-details/color-palette-details.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_color-palette-details.stories-BkDNe10H.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/color-swatch/color-swatch.mdx": {
-    "file": "_astro/color-swatch-Blt0iNne.js",
+    "file": "_astro/color-swatch-DLs7ZYoR.js",
     "name": "color-swatch",
     "src": "src/components/color-swatch/color-swatch.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_color-swatch.stories-DFXCtZcF.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/do-dont/do-dont.mdx": {
-    "file": "_astro/do-dont-CvDGCKdy.js",
+    "file": "_astro/do-dont-wSyAMa86.js",
     "name": "do-dont",
     "src": "src/components/do-dont/do-dont.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_do-dont.stories-B-tHVOYc.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/dont-logo-card/dont-logo-card.mdx": {
-    "file": "_astro/dont-logo-card-wD2lJtRF.js",
+    "file": "_astro/dont-logo-card-D-qfCK5q.js",
     "name": "dont-logo-card",
     "src": "src/components/dont-logo-card/dont-logo-card.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_dont-logo-card.stories-DIhUqeGW.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/download-header/download-header.mdx": {
-    "file": "_astro/download-header-BnD3O58V.js",
+    "file": "_astro/download-header-BrF7URId.js",
     "name": "download-header",
     "src": "src/components/download-header/download-header.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_download-header.stories-Dt2FHYhw.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/golden-circle/golden-circle.mdx": {
-    "file": "_astro/golden-circle-68w5brLc.js",
+    "file": "_astro/golden-circle-Bzn27ype.js",
     "name": "golden-circle",
     "src": "src/components/golden-circle/golden-circle.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_golden-circle.stories-BX57SenN.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/hero/hero.mdx": {
-    "file": "_astro/hero-sEyzeSLx.js",
+    "file": "_astro/hero-BftO8WpV.js",
     "name": "hero",
     "src": "src/components/hero/hero.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_hero.stories-7vXcPXNb.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/image-card/image-card.mdx": {
-    "file": "_astro/image-card-Csch-QXS.js",
+    "file": "_astro/image-card-erGf9fnM.js",
     "name": "image-card",
     "src": "src/components/image-card/image-card.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_image-card.stories-DkdZDQTy.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/masters-logo-card/masters-logo-card.mdx": {
-    "file": "_astro/masters-logo-card-qr4cbFM3.js",
+    "file": "_astro/masters-logo-card-BVXN_usN.js",
     "name": "masters-logo-card",
     "src": "src/components/masters-logo-card/masters-logo-card.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_masters-logo-card.stories-C_abds8U.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/mission-card/mission-card.mdx": {
-    "file": "_astro/mission-card-DnF00hDM.js",
+    "file": "_astro/mission-card-Dt6xfXU1.js",
     "name": "mission-card",
     "src": "src/components/mission-card/mission-card.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_mission-card.stories-CLUHpYyi.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/navigation-heading/navigation-heading.mdx": {
-    "file": "_astro/navigation-heading-yudQJpB3.js",
+    "file": "_astro/navigation-heading-zG6XsdtW.js",
     "name": "navigation-heading",
     "src": "src/components/navigation-heading/navigation-heading.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_navigation-heading.stories-j1ntSChA.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/navigation-item/navigation-item.mdx": {
-    "file": "_astro/navigation-item-CxmPvMU6.js",
+    "file": "_astro/navigation-item-Bl-_oRTM.js",
     "name": "navigation-item",
     "src": "src/components/navigation-item/navigation-item.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_navigation-item.stories-C_8plZPt.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/navigation/navigation.mdx": {
-    "file": "_astro/navigation-C-flHW8E.js",
+    "file": "_astro/navigation-BoQuk3PM.js",
     "name": "navigation",
     "src": "src/components/navigation/navigation.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_navigation.stories-CycRKMTg.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/primary-card/primary-card.mdx": {
-    "file": "_astro/primary-card-BJccvLQg.js",
+    "file": "_astro/primary-card-a46AHNjk.js",
     "name": "primary-card",
     "src": "src/components/primary-card/primary-card.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_primary-card.stories-DfzkFV9x.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/primary-grid/primary-grid.mdx": {
-    "file": "_astro/primary-grid-D2x-6SRi.js",
+    "file": "_astro/primary-grid-D1f37-rc.js",
     "name": "primary-grid",
     "src": "src/components/primary-grid/primary-grid.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_primary-grid.stories-CAAHFS17.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/principle-card/principle-card.mdx": {
-    "file": "_astro/principle-card-VoH1W7fx.js",
+    "file": "_astro/principle-card-C86RWGpB.js",
     "name": "principle-card",
     "src": "src/components/principle-card/principle-card.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_principle-card.stories-BBUrAKQN.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/rules-breakdown/rules-breakdown.mdx": {
-    "file": "_astro/rules-breakdown-DmTufbqF.js",
+    "file": "_astro/rules-breakdown-DxWUnLKo.js",
     "name": "rules-breakdown",
     "src": "src/components/rules-breakdown/rules-breakdown.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_rules-breakdown.stories-CPsfg0Pv.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/secondary-card/secondary-card.mdx": {
-    "file": "_astro/secondary-card-BqTLtY4D.js",
+    "file": "_astro/secondary-card-PLo9Msti.js",
     "name": "secondary-card",
     "src": "src/components/secondary-card/secondary-card.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_secondary-card.stories-BVvoyAto.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/section-inner-slim/section-inner-slim.mdx": {
-    "file": "_astro/section-inner-slim-CafYU4eD.js",
+    "file": "_astro/section-inner-slim-CJshyB5A.js",
     "name": "section-inner-slim",
     "src": "src/components/section-inner-slim/section-inner-slim.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_section-inner-slim.stories-DsAtQdmj.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/section/section.mdx": {
-    "file": "_astro/section-Ug-sojGU.js",
+    "file": "_astro/section-LwvXndTi.js",
     "name": "section",
     "src": "src/components/section/section.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_section.stories-DxKdDqFP.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/strategy-cards/strategy-cards.mdx": {
-    "file": "_astro/strategy-cards-CvzHLAZg.js",
+    "file": "_astro/strategy-cards-COsJmGxo.js",
     "name": "strategy-cards",
     "src": "src/components/strategy-cards/strategy-cards.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_strategy-cards.stories-Bru1FbxU.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/strategy-rules-section/strategy-rules-section.mdx": {
-    "file": "_astro/strategy-rules-section-T9Jpl6iw.js",
+    "file": "_astro/strategy-rules-section-DkYkWdTT.js",
     "name": "strategy-rules-section",
     "src": "src/components/strategy-rules-section/strategy-rules-section.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_strategy-rules-section.stories-xAmKttK3.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/trademarks-logo-card/trademarks-logo-card.mdx": {
-    "file": "_astro/trademarks-logo-card-Pec3W75k.js",
+    "file": "_astro/trademarks-logo-card-CdS5aqK0.js",
     "name": "trademarks-logo-card",
     "src": "src/components/trademarks-logo-card/trademarks-logo-card.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_trademarks-logo-card.stories-ys2zP_LZ.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/typeface-family-panel/typeface-family-panel.mdx": {
-    "file": "_astro/typeface-family-panel-DuW1pleV.js",
+    "file": "_astro/typeface-family-panel-D2ORU-2L.js",
     "name": "typeface-family-panel",
     "src": "src/components/typeface-family-panel/typeface-family-panel.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_typeface-family-panel.stories-ClI-zoIM.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/typeface-panel/typeface-panel.mdx": {
-    "file": "_astro/typeface-panel-zyVSsdEg.js",
+    "file": "_astro/typeface-panel-BwqQhU9n.js",
     "name": "typeface-panel",
     "src": "src/components/typeface-panel/typeface-panel.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_typeface-panel.stories-CLP0tZM_.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/typeface-single-family-panel/typeface-single-family-panel.mdx": {
-    "file": "_astro/typeface-single-family-panel-EBlyHlMN.js",
+    "file": "_astro/typeface-single-family-panel-CS8NLtTq.js",
     "name": "typeface-single-family-panel",
     "src": "src/components/typeface-single-family-panel/typeface-single-family-panel.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_typeface-single-family-panel.stories-CKXLFuCE.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/warning-message/warning-message.mdx": {
-    "file": "_astro/warning-message-j6GXTJtq.js",
+    "file": "_astro/warning-message-DLZpjbSJ.js",
     "name": "warning-message",
     "src": "src/components/warning-message/warning-message.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_warning-message.stories-IO-nT1fi.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/stories/overview/Overview.mdx": {
-    "file": "_astro/Overview-DDjGyCdS.js",
+    "file": "_astro/Overview-BZzAxFdk.js",
     "name": "Overview",
     "src": "src/stories/overview/Overview.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_preload-helper-C91jIAhM.js"
     ],
     "css": [
@@ -615,12 +615,12 @@
     ]
   },
   "src/stories/tokens/Tokens.mdx": {
-    "file": "_astro/Tokens-B0rxW0eE.js",
+    "file": "_astro/Tokens-C4FzJyS1.js",
     "name": "Tokens",
     "src": "src/stories/tokens/Tokens.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-B4DhRhx6.js",
+      "_blocks-BSqmMR9E.js",
       "_preload-helper-C91jIAhM.js"
     ],
     "css": [
