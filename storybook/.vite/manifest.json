@@ -4,8 +4,8 @@
     "name": "attribute-card.stories",
     "isDynamicEntry": true
   },
-  "_blocks-QVCSqwEy.js": {
-    "file": "_astro/blocks-QVCSqwEy.js",
+  "_blocks-qRV1lCVL.js": {
+    "file": "_astro/blocks-qRV1lCVL.js",
     "name": "blocks",
     "imports": [
       "_preload-helper-C91jIAhM.js"
@@ -18,6 +18,11 @@
       "node_modules/storybook/dist/_browser-chunks/WithTooltip-65CFNBJE.js",
       "node_modules/@storybook/addon-docs/dist/_browser-chunks/Color-23OOGO2C.js"
     ]
+  },
+  "_card-grid.stories-BHirGMhc.js": {
+    "file": "_astro/card-grid.stories-BHirGMhc.js",
+    "name": "card-grid.stories",
+    "isDynamicEntry": true
   },
   "_color-palette-details.stories-BkDNe10H.js": {
     "file": "_astro/color-palette-details.stories-BkDNe10H.js",
@@ -44,18 +49,17 @@
     "name": "download-header.stories",
     "isDynamicEntry": true
   },
-  "_golden-circle.stories-BX57SenN.js": {
-    "file": "_astro/golden-circle.stories-BX57SenN.js",
-    "name": "golden-circle.stories",
-    "isDynamicEntry": true
-  },
   "_hero.stories-7vXcPXNb.js": {
     "file": "_astro/hero.stories-7vXcPXNb.js",
     "name": "hero.stories",
     "isDynamicEntry": true
   },
-  "_iframe-B6HP5kRS.js": {
-    "file": "_astro/iframe-B6HP5kRS.js",
+  "_iframe-B_UAi2mP.css": {
+    "file": "_astro/iframe-B_UAi2mP.css",
+    "src": "_iframe-B_UAi2mP.css"
+  },
+  "_iframe-CQC-l9DB.js": {
+    "file": "_astro/iframe-CQC-l9DB.js",
     "name": "iframe",
     "imports": [
       "_preload-helper-C91jIAhM.js"
@@ -64,84 +68,61 @@
       "src/stories/overview/Overview.mdx",
       "src/stories/tokens/Tokens.mdx",
       "src/components/attribute-card/attribute-card.mdx",
+      "src/components/card-grid/card-grid.mdx",
       "src/components/color-swatch/color-swatch.mdx",
       "src/components/do-dont/do-dont.mdx",
       "src/components/download-header/download-header.mdx",
       "src/components/hero/hero.mdx",
       "src/components/image-card/image-card.mdx",
-      "src/components/masters-logo-card/masters-logo-card.mdx",
+      "src/components/logo-card/logo-card.mdx",
       "src/components/navigation/navigation.mdx",
       "src/components/navigation-heading/navigation-heading.mdx",
       "src/components/navigation-item/navigation-item.mdx",
       "src/components/primary-card/primary-card.mdx",
-      "src/components/primary-grid/primary-grid.mdx",
       "src/components/rules-breakdown/rules-breakdown.mdx",
       "src/components/secondary-card/secondary-card.mdx",
       "src/components/section-inner-slim/section-inner-slim.mdx",
       "src/components/section/section.mdx",
+      "src/components/typeface-family-panel/typeface-family-panel.mdx",
       "_attribute-card.stories-B7IYy6ga.js",
+      "_card-grid.stories-BHirGMhc.js",
       "_color-swatch.stories-DFXCtZcF.js",
       "_do-dont.stories-B-tHVOYc.js",
       "_download-header.stories-Dt2FHYhw.js",
       "_hero.stories-7vXcPXNb.js",
-      "_image-card.stories-DkdZDQTy.js",
-      "_masters-logo-card.stories-C_abds8U.js",
+      "_image-card.stories-EQdBT9hs.js",
+      "_logo-card.stories-BTS3IWA1.js",
       "_navigation.stories-CycRKMTg.js",
       "_navigation-heading.stories-j1ntSChA.js",
       "_navigation-item.stories-C_8plZPt.js",
-      "_primary-card.stories-DfzkFV9x.js",
-      "_primary-grid.stories-CAAHFS17.js",
+      "_primary-card.stories-DamKsUk_.js",
       "_rules-breakdown.stories-CPsfg0Pv.js",
-      "_secondary-card.stories-BVvoyAto.js",
+      "_secondary-card.stories-DHoJ78zP.js",
       "_section-inner-slim.stories-DsAtQdmj.js",
       "_section.stories-DxKdDqFP.js",
+      "_typeface-family-panel.stories-uGX3rktF.js",
       "src/components/color-palette-details/color-palette-details.mdx",
       "src/components/dont-logo-card/dont-logo-card.mdx",
-      "src/components/golden-circle/golden-circle.mdx",
-      "src/components/mission-card/mission-card.mdx",
-      "src/components/principle-card/principle-card.mdx",
       "src/components/strategy-cards/strategy-cards.mdx",
-      "src/components/strategy-rules-section/strategy-rules-section.mdx",
-      "src/components/trademarks-logo-card/trademarks-logo-card.mdx",
-      "src/components/typeface-family-panel/typeface-family-panel.mdx",
       "src/components/typeface-panel/typeface-panel.mdx",
-      "src/components/typeface-single-family-panel/typeface-single-family-panel.mdx",
-      "src/components/warning-message/warning-message.mdx",
       "_color-palette-details.stories-BkDNe10H.js",
       "_dont-logo-card.stories-DIhUqeGW.js",
-      "_golden-circle.stories-BX57SenN.js",
-      "_mission-card.stories-CLUHpYyi.js",
-      "_principle-card.stories-BBUrAKQN.js",
       "_strategy-cards.stories-Bru1FbxU.js",
-      "_strategy-rules-section.stories-xAmKttK3.js",
-      "_trademarks-logo-card.stories-ys2zP_LZ.js",
-      "_typeface-family-panel.stories-ClI-zoIM.js",
       "_typeface-panel.stories-CLP0tZM_.js",
-      "_typeface-single-family-panel.stories-CKXLFuCE.js",
-      "_warning-message.stories-IO-nT1fi.js",
       "node_modules/@storybook/addon-docs/dist/_browser-chunks/DocsRenderer-LL677BLK.js"
     ],
     "css": [
-      "_astro/iframe-qlPvurpx.css"
+      "_astro/iframe-B_UAi2mP.css"
     ]
   },
-  "_iframe-qlPvurpx.css": {
-    "file": "_astro/iframe-qlPvurpx.css",
-    "src": "_iframe-qlPvurpx.css"
-  },
-  "_image-card.stories-DkdZDQTy.js": {
-    "file": "_astro/image-card.stories-DkdZDQTy.js",
+  "_image-card.stories-EQdBT9hs.js": {
+    "file": "_astro/image-card.stories-EQdBT9hs.js",
     "name": "image-card.stories",
     "isDynamicEntry": true
   },
-  "_masters-logo-card.stories-C_abds8U.js": {
-    "file": "_astro/masters-logo-card.stories-C_abds8U.js",
-    "name": "masters-logo-card.stories",
-    "isDynamicEntry": true
-  },
-  "_mission-card.stories-CLUHpYyi.js": {
-    "file": "_astro/mission-card.stories-CLUHpYyi.js",
-    "name": "mission-card.stories",
+  "_logo-card.stories-BTS3IWA1.js": {
+    "file": "_astro/logo-card.stories-BTS3IWA1.js",
+    "name": "logo-card.stories",
     "isDynamicEntry": true
   },
   "_navigation-heading.stories-j1ntSChA.js": {
@@ -163,19 +144,9 @@
     "file": "_astro/preload-helper-C91jIAhM.js",
     "name": "preload-helper"
   },
-  "_primary-card.stories-DfzkFV9x.js": {
-    "file": "_astro/primary-card.stories-DfzkFV9x.js",
+  "_primary-card.stories-DamKsUk_.js": {
+    "file": "_astro/primary-card.stories-DamKsUk_.js",
     "name": "primary-card.stories",
-    "isDynamicEntry": true
-  },
-  "_primary-grid.stories-CAAHFS17.js": {
-    "file": "_astro/primary-grid.stories-CAAHFS17.js",
-    "name": "primary-grid.stories",
-    "isDynamicEntry": true
-  },
-  "_principle-card.stories-BBUrAKQN.js": {
-    "file": "_astro/principle-card.stories-BBUrAKQN.js",
-    "name": "principle-card.stories",
     "isDynamicEntry": true
   },
   "_rules-breakdown.stories-CPsfg0Pv.js": {
@@ -183,8 +154,8 @@
     "name": "rules-breakdown.stories",
     "isDynamicEntry": true
   },
-  "_secondary-card.stories-BVvoyAto.js": {
-    "file": "_astro/secondary-card.stories-BVvoyAto.js",
+  "_secondary-card.stories-DHoJ78zP.js": {
+    "file": "_astro/secondary-card.stories-DHoJ78zP.js",
     "name": "secondary-card.stories",
     "isDynamicEntry": true
   },
@@ -203,18 +174,8 @@
     "name": "strategy-cards.stories",
     "isDynamicEntry": true
   },
-  "_strategy-rules-section.stories-xAmKttK3.js": {
-    "file": "_astro/strategy-rules-section.stories-xAmKttK3.js",
-    "name": "strategy-rules-section.stories",
-    "isDynamicEntry": true
-  },
-  "_trademarks-logo-card.stories-ys2zP_LZ.js": {
-    "file": "_astro/trademarks-logo-card.stories-ys2zP_LZ.js",
-    "name": "trademarks-logo-card.stories",
-    "isDynamicEntry": true
-  },
-  "_typeface-family-panel.stories-ClI-zoIM.js": {
-    "file": "_astro/typeface-family-panel.stories-ClI-zoIM.js",
+  "_typeface-family-panel.stories-uGX3rktF.js": {
+    "file": "_astro/typeface-family-panel.stories-uGX3rktF.js",
     "name": "typeface-family-panel.stories",
     "isDynamicEntry": true
   },
@@ -223,64 +184,54 @@
     "name": "typeface-panel.stories",
     "isDynamicEntry": true
   },
-  "_typeface-single-family-panel.stories-CKXLFuCE.js": {
-    "file": "_astro/typeface-single-family-panel.stories-CKXLFuCE.js",
-    "name": "typeface-single-family-panel.stories",
-    "isDynamicEntry": true
-  },
-  "_warning-message.stories-IO-nT1fi.js": {
-    "file": "_astro/warning-message.stories-IO-nT1fi.js",
-    "name": "warning-message.stories",
-    "isDynamicEntry": true
-  },
   "node_modules/@storybook/addon-docs/dist/_browser-chunks/Color-23OOGO2C.js": {
-    "file": "_astro/Color-23OOGO2C-C6t4uyB1.js",
+    "file": "_astro/Color-23OOGO2C-1pdH83N1.js",
     "name": "Color-23OOGO2C",
     "src": "node_modules/@storybook/addon-docs/dist/_browser-chunks/Color-23OOGO2C.js",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
-      "_iframe-B6HP5kRS.js",
+      "_blocks-qRV1lCVL.js",
+      "_iframe-CQC-l9DB.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "node_modules/@storybook/addon-docs/dist/_browser-chunks/DocsRenderer-LL677BLK.js": {
-    "file": "_astro/DocsRenderer-LL677BLK-B_7hv1le.js",
+    "file": "_astro/DocsRenderer-LL677BLK-BWrEuEcr.js",
     "name": "DocsRenderer-LL677BLK",
     "src": "node_modules/@storybook/addon-docs/dist/_browser-chunks/DocsRenderer-LL677BLK.js",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
+      "_blocks-qRV1lCVL.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "node_modules/storybook/dist/_browser-chunks/WithTooltip-65CFNBJE.js": {
-    "file": "_astro/WithTooltip-65CFNBJE-B3O64hDx.js",
+    "file": "_astro/WithTooltip-65CFNBJE-CnAxK8n-.js",
     "name": "WithTooltip-65CFNBJE",
     "src": "node_modules/storybook/dist/_browser-chunks/WithTooltip-65CFNBJE.js",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
+      "_blocks-qRV1lCVL.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "node_modules/storybook/dist/_browser-chunks/formatter-EIJCOSYU.js": {
-    "file": "_astro/formatter-EIJCOSYU-Bd-RgTH3.js",
+    "file": "_astro/formatter-EIJCOSYU-DNKQKXq-.js",
     "name": "formatter-EIJCOSYU",
     "src": "node_modules/storybook/dist/_browser-chunks/formatter-EIJCOSYU.js",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
+      "_blocks-qRV1lCVL.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "node_modules/storybook/dist/_browser-chunks/syntaxhighlighter-W7WJGI2T.js": {
-    "file": "_astro/syntaxhighlighter-W7WJGI2T-CIDcnbWr.js",
+    "file": "_astro/syntaxhighlighter-W7WJGI2T-CBLN81cb.js",
     "name": "syntaxhighlighter-W7WJGI2T",
     "src": "node_modules/storybook/dist/_browser-chunks/syntaxhighlighter-W7WJGI2T.js",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
+      "_blocks-qRV1lCVL.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
@@ -294,332 +245,255 @@
     ]
   },
   "src/components/attribute-card/attribute-card.mdx": {
-    "file": "_astro/attribute-card-BkyrU_bs.js",
+    "file": "_astro/attribute-card-CIgyxGRM.js",
     "name": "attribute-card",
     "src": "src/components/attribute-card/attribute-card.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
+      "_blocks-qRV1lCVL.js",
       "_attribute-card.stories-B7IYy6ga.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
+  "src/components/card-grid/card-grid.mdx": {
+    "file": "_astro/card-grid-CwnWz2ev.js",
+    "name": "card-grid",
+    "src": "src/components/card-grid/card-grid.mdx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_blocks-qRV1lCVL.js",
+      "_card-grid.stories-BHirGMhc.js",
+      "_preload-helper-C91jIAhM.js"
+    ]
+  },
   "src/components/color-palette-details/color-palette-details.mdx": {
-    "file": "_astro/color-palette-details-BB4ni40Q.js",
+    "file": "_astro/color-palette-details-QsIPX3Fk.js",
     "name": "color-palette-details",
     "src": "src/components/color-palette-details/color-palette-details.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
+      "_blocks-qRV1lCVL.js",
       "_color-palette-details.stories-BkDNe10H.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/color-swatch/color-swatch.mdx": {
-    "file": "_astro/color-swatch-CsQIn3og.js",
+    "file": "_astro/color-swatch-VHlPYNDa.js",
     "name": "color-swatch",
     "src": "src/components/color-swatch/color-swatch.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
+      "_blocks-qRV1lCVL.js",
       "_color-swatch.stories-DFXCtZcF.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/do-dont/do-dont.mdx": {
-    "file": "_astro/do-dont-HgiF-E7U.js",
+    "file": "_astro/do-dont-CyJ9Tkoo.js",
     "name": "do-dont",
     "src": "src/components/do-dont/do-dont.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
+      "_blocks-qRV1lCVL.js",
       "_do-dont.stories-B-tHVOYc.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/dont-logo-card/dont-logo-card.mdx": {
-    "file": "_astro/dont-logo-card-DL-jLLtX.js",
+    "file": "_astro/dont-logo-card-AKTggeJB.js",
     "name": "dont-logo-card",
     "src": "src/components/dont-logo-card/dont-logo-card.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
+      "_blocks-qRV1lCVL.js",
       "_dont-logo-card.stories-DIhUqeGW.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/download-header/download-header.mdx": {
-    "file": "_astro/download-header-Bs806YS_.js",
+    "file": "_astro/download-header-CayZoIea.js",
     "name": "download-header",
     "src": "src/components/download-header/download-header.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
+      "_blocks-qRV1lCVL.js",
       "_download-header.stories-Dt2FHYhw.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
-  "src/components/golden-circle/golden-circle.mdx": {
-    "file": "_astro/golden-circle-Cj2bs1_A.js",
-    "name": "golden-circle",
-    "src": "src/components/golden-circle/golden-circle.mdx",
-    "isDynamicEntry": true,
-    "imports": [
-      "_blocks-QVCSqwEy.js",
-      "_golden-circle.stories-BX57SenN.js",
-      "_preload-helper-C91jIAhM.js"
-    ]
-  },
   "src/components/hero/hero.mdx": {
-    "file": "_astro/hero-DP9NVHwJ.js",
+    "file": "_astro/hero-ZHAJddAR.js",
     "name": "hero",
     "src": "src/components/hero/hero.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
+      "_blocks-qRV1lCVL.js",
       "_hero.stories-7vXcPXNb.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/image-card/image-card.mdx": {
-    "file": "_astro/image-card-CYkoJ_sJ.js",
+    "file": "_astro/image-card-D-qjhCg2.js",
     "name": "image-card",
     "src": "src/components/image-card/image-card.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
-      "_image-card.stories-DkdZDQTy.js",
+      "_blocks-qRV1lCVL.js",
+      "_image-card.stories-EQdBT9hs.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
-  "src/components/masters-logo-card/masters-logo-card.mdx": {
-    "file": "_astro/masters-logo-card-B4FBoi0_.js",
-    "name": "masters-logo-card",
-    "src": "src/components/masters-logo-card/masters-logo-card.mdx",
+  "src/components/logo-card/logo-card.mdx": {
+    "file": "_astro/logo-card-w3OxrFJw.js",
+    "name": "logo-card",
+    "src": "src/components/logo-card/logo-card.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
-      "_masters-logo-card.stories-C_abds8U.js",
-      "_preload-helper-C91jIAhM.js"
-    ]
-  },
-  "src/components/mission-card/mission-card.mdx": {
-    "file": "_astro/mission-card-DLozxO7r.js",
-    "name": "mission-card",
-    "src": "src/components/mission-card/mission-card.mdx",
-    "isDynamicEntry": true,
-    "imports": [
-      "_blocks-QVCSqwEy.js",
-      "_mission-card.stories-CLUHpYyi.js",
+      "_blocks-qRV1lCVL.js",
+      "_logo-card.stories-BTS3IWA1.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/navigation-heading/navigation-heading.mdx": {
-    "file": "_astro/navigation-heading-BKsvVAXC.js",
+    "file": "_astro/navigation-heading-8Lzyclrm.js",
     "name": "navigation-heading",
     "src": "src/components/navigation-heading/navigation-heading.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
+      "_blocks-qRV1lCVL.js",
       "_navigation-heading.stories-j1ntSChA.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/navigation-item/navigation-item.mdx": {
-    "file": "_astro/navigation-item-CyWpcSyV.js",
+    "file": "_astro/navigation-item-3ReBiFoO.js",
     "name": "navigation-item",
     "src": "src/components/navigation-item/navigation-item.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
+      "_blocks-qRV1lCVL.js",
       "_navigation-item.stories-C_8plZPt.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/navigation/navigation.mdx": {
-    "file": "_astro/navigation-LcTsXfo7.js",
+    "file": "_astro/navigation-DmoEljq1.js",
     "name": "navigation",
     "src": "src/components/navigation/navigation.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
+      "_blocks-qRV1lCVL.js",
       "_navigation.stories-CycRKMTg.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/primary-card/primary-card.mdx": {
-    "file": "_astro/primary-card-wbhP9XZ0.js",
+    "file": "_astro/primary-card-Dso3k3wg.js",
     "name": "primary-card",
     "src": "src/components/primary-card/primary-card.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
-      "_primary-card.stories-DfzkFV9x.js",
-      "_preload-helper-C91jIAhM.js"
-    ]
-  },
-  "src/components/primary-grid/primary-grid.mdx": {
-    "file": "_astro/primary-grid-iJR36Zxe.js",
-    "name": "primary-grid",
-    "src": "src/components/primary-grid/primary-grid.mdx",
-    "isDynamicEntry": true,
-    "imports": [
-      "_blocks-QVCSqwEy.js",
-      "_primary-grid.stories-CAAHFS17.js",
-      "_preload-helper-C91jIAhM.js"
-    ]
-  },
-  "src/components/principle-card/principle-card.mdx": {
-    "file": "_astro/principle-card-CnbboO58.js",
-    "name": "principle-card",
-    "src": "src/components/principle-card/principle-card.mdx",
-    "isDynamicEntry": true,
-    "imports": [
-      "_blocks-QVCSqwEy.js",
-      "_principle-card.stories-BBUrAKQN.js",
+      "_blocks-qRV1lCVL.js",
+      "_primary-card.stories-DamKsUk_.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/rules-breakdown/rules-breakdown.mdx": {
-    "file": "_astro/rules-breakdown-BRAjQUTh.js",
+    "file": "_astro/rules-breakdown-CJ0R-pIU.js",
     "name": "rules-breakdown",
     "src": "src/components/rules-breakdown/rules-breakdown.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
+      "_blocks-qRV1lCVL.js",
       "_rules-breakdown.stories-CPsfg0Pv.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/secondary-card/secondary-card.mdx": {
-    "file": "_astro/secondary-card-CuwToJio.js",
+    "file": "_astro/secondary-card-1AqpnaJy.js",
     "name": "secondary-card",
     "src": "src/components/secondary-card/secondary-card.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
-      "_secondary-card.stories-BVvoyAto.js",
+      "_blocks-qRV1lCVL.js",
+      "_secondary-card.stories-DHoJ78zP.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/section-inner-slim/section-inner-slim.mdx": {
-    "file": "_astro/section-inner-slim-bd49iHtB.js",
+    "file": "_astro/section-inner-slim-L-zd_koo.js",
     "name": "section-inner-slim",
     "src": "src/components/section-inner-slim/section-inner-slim.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
+      "_blocks-qRV1lCVL.js",
       "_section-inner-slim.stories-DsAtQdmj.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/section/section.mdx": {
-    "file": "_astro/section-CcyNM9XD.js",
+    "file": "_astro/section-DwdRftg_.js",
     "name": "section",
     "src": "src/components/section/section.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
+      "_blocks-qRV1lCVL.js",
       "_section.stories-DxKdDqFP.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/strategy-cards/strategy-cards.mdx": {
-    "file": "_astro/strategy-cards-CfEkV_s4.js",
+    "file": "_astro/strategy-cards-DLUn74O8.js",
     "name": "strategy-cards",
     "src": "src/components/strategy-cards/strategy-cards.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
+      "_blocks-qRV1lCVL.js",
       "_strategy-cards.stories-Bru1FbxU.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
-  "src/components/strategy-rules-section/strategy-rules-section.mdx": {
-    "file": "_astro/strategy-rules-section-BBLOEidJ.js",
-    "name": "strategy-rules-section",
-    "src": "src/components/strategy-rules-section/strategy-rules-section.mdx",
-    "isDynamicEntry": true,
-    "imports": [
-      "_blocks-QVCSqwEy.js",
-      "_strategy-rules-section.stories-xAmKttK3.js",
-      "_preload-helper-C91jIAhM.js"
-    ]
-  },
-  "src/components/trademarks-logo-card/trademarks-logo-card.mdx": {
-    "file": "_astro/trademarks-logo-card-BNDzoaag.js",
-    "name": "trademarks-logo-card",
-    "src": "src/components/trademarks-logo-card/trademarks-logo-card.mdx",
-    "isDynamicEntry": true,
-    "imports": [
-      "_blocks-QVCSqwEy.js",
-      "_trademarks-logo-card.stories-ys2zP_LZ.js",
-      "_preload-helper-C91jIAhM.js"
-    ]
-  },
   "src/components/typeface-family-panel/typeface-family-panel.mdx": {
-    "file": "_astro/typeface-family-panel-BpL_Vq3H.js",
+    "file": "_astro/typeface-family-panel-Dac3Dxex.js",
     "name": "typeface-family-panel",
     "src": "src/components/typeface-family-panel/typeface-family-panel.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
-      "_typeface-family-panel.stories-ClI-zoIM.js",
+      "_blocks-qRV1lCVL.js",
+      "_typeface-family-panel.stories-uGX3rktF.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/components/typeface-panel/typeface-panel.mdx": {
-    "file": "_astro/typeface-panel-C0Z8OZTt.js",
+    "file": "_astro/typeface-panel-yxa4j7G0.js",
     "name": "typeface-panel",
     "src": "src/components/typeface-panel/typeface-panel.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
+      "_blocks-qRV1lCVL.js",
       "_typeface-panel.stories-CLP0tZM_.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
-  "src/components/typeface-single-family-panel/typeface-single-family-panel.mdx": {
-    "file": "_astro/typeface-single-family-panel-fhjDQ-Hh.js",
-    "name": "typeface-single-family-panel",
-    "src": "src/components/typeface-single-family-panel/typeface-single-family-panel.mdx",
-    "isDynamicEntry": true,
-    "imports": [
-      "_blocks-QVCSqwEy.js",
-      "_typeface-single-family-panel.stories-CKXLFuCE.js",
-      "_preload-helper-C91jIAhM.js"
-    ]
-  },
-  "src/components/warning-message/warning-message.mdx": {
-    "file": "_astro/warning-message-CKyKCqFp.js",
-    "name": "warning-message",
-    "src": "src/components/warning-message/warning-message.mdx",
-    "isDynamicEntry": true,
-    "imports": [
-      "_blocks-QVCSqwEy.js",
-      "_warning-message.stories-IO-nT1fi.js",
-      "_preload-helper-C91jIAhM.js"
-    ]
-  },
   "src/stories/overview/Overview.mdx": {
-    "file": "_astro/Overview-8D7Z9L7C.js",
+    "file": "_astro/Overview-DL4XId0s.js",
     "name": "Overview",
     "src": "src/stories/overview/Overview.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
-      "_iframe-B6HP5kRS.js",
+      "_blocks-qRV1lCVL.js",
+      "_iframe-CQC-l9DB.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
   "src/stories/tokens/Tokens.mdx": {
-    "file": "_astro/Tokens-qjCYG-na.js",
+    "file": "_astro/Tokens-wUADJvA_.js",
     "name": "Tokens",
     "src": "src/stories/tokens/Tokens.mdx",
     "isDynamicEntry": true,
     "imports": [
-      "_blocks-QVCSqwEy.js",
-      "_iframe-B6HP5kRS.js",
+      "_blocks-qRV1lCVL.js",
+      "_iframe-CQC-l9DB.js",
       "_preload-helper-C91jIAhM.js"
     ]
   },
